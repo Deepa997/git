@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2010\Projects\student1\student1\bin\Debug\student1.exe
+c:\users\user\documents\visual studio 2010\Projects\student1\student1\bin\Debug\student1.pdb
+c:\users\user\documents\visual studio 2010\Projects\student1\student1\obj\x86\Debug\student1.coursewise.resources
+c:\users\user\documents\visual studio 2010\Projects\student1\student1\obj\x86\Debug\student1.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\student1\student1\obj\x86\Debug\student1.Form2.resources
+c:\users\user\documents\visual studio 2010\Projects\student1\student1\obj\x86\Debug\student1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\student1\student1\obj\x86\Debug\student1.student.resources
+c:\users\user\documents\visual studio 2010\Projects\student1\student1\obj\x86\Debug\student1.yearwise.resources
+c:\users\user\documents\visual studio 2010\Projects\student1\student1\obj\x86\Debug\student1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\student1\student1\obj\x86\Debug\student1.exe
+c:\users\user\documents\visual studio 2010\Projects\student1\student1\obj\x86\Debug\student1.pdb
+C:\Users\user\documents\visual studio 2010\Projects\student1\student1\obj\x86\Debug\student1.csprojResolveAssemblyReference.cache
